@@ -14,7 +14,7 @@ I build for my own work first. If I need a tool, I build it and use it every day
 |---|---|
 | **[agent-evals](https://github.com/workingmodel/agent-evals)** | Unit tests for Claude Code agents. It runs golden tasks headless and saves full traces, then scores each run with rule checks and an LLM-judge rubric. A regression against the baseline fails the build. Includes prompt-injection canary tests. `pipx install wm-agent-evals` |
 | **[create-mcp-server](https://github.com/workingmodel/create-mcp-server)** | Scaffolds a typed, tested MCP server in under a minute. Three templates, stdio or SSE, and Zod-inferred tool definitions. `npx @workingmodel/create-mcp-server my-server` |
-| **[figma-vector-mcp](https://github.com/workingmodel/wm-figma-vector-mcp)** | An MCP server and Figma plugin that let Claude draw fully editable vectors on the Figma canvas. 49 tools, covering paths, gradients, boolean operations, auto layout, components and SVG/PNG export. |
+| **[figma-vector-mcp](https://github.com/workingmodel/wm-figma-vector-mcp)** | An MCP server and Figma plugin that let Claude draw fully editable vectors on the Figma canvas. 58 tools, covering paths, gradients, boolean operations, auto layout, components and SVG/PNG export. |
 | **[llms-file-generator](https://github.com/workingmodel/wm-wp-plugin-llms-file-generator)** | A WordPress plugin that keeps `/llms.txt` and `/llms-full.txt` up to date, so AI models can read your site. |
 
 #### Zero-config CLIs
