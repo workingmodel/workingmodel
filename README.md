@@ -34,4 +34,4 @@ You run one command and it tells you what's wrong in plain English. No setup, no
 
 TypeScript · Python · Node · PHP · Next.js · React · Claude Code · MCP · AWS Lambda · Three.js / WebGL · GSAP
 
-[workingmodel.co](https://www.workingmodel.co) · [npm](https://www.npmjs.com/~working-model) · [PyPI](https://pypi.org/project/wm-agent-evals/) · [LinkedIn](https://www.linkedin.com/in/adamsmithprofile) · adam@workingmodel.co
+[workingmodel.co](https://www.workingmodel.co) · [npm](https://www.npmjs.com/~working-model) · [PyPI](https://pypi.org/project/wm-agent-evals/) · [LinkedIn](https://www.linkedin.com/in/adamsmithprofile) · hi@workingmodel.co
