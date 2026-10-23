@@ -2,8 +2,6 @@
 
 I run [Working Model](https://www.workingmodel.co) in Toronto. I started out as a developer, spent 20+ years at agencies including Sapient, Jam3, Leo Burnett and Publicis, and moved from front-end architecture into technical direction. Today I build across the stack: client sites and digital products, developer tools, and production AI systems.
 
-I build for my own work first. If I need a tool, I build it and use it every day, and once it holds up I publish it here.
-
 **Right now:** Claude Code agents, MCP servers, and evals that show whether an agent actually got better.
 
 ---
