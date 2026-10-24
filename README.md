@@ -1,6 +1,6 @@
 ### Hi, I'm Adam 👋
 
-I run [Working Model](https://www.workingmodel.co) in Toronto. I started out as a developer, spent 20+ years at agencies including Sapient, Jam3, Leo Burnett and Publicis, and moved from front-end architecture into technical direction. Today I build across the stack: client sites and digital products, developer tools, and production AI systems.
+I'm a developer in Toronto. I spent my first twelve years at agencies including Sapient, Publicis, Jam3 and Leo Burnett, starting in front-end development and moving into leading technical teams and digital production. In 2014 I started [Working Model](https://www.workingmodel.co), and I've run it ever since, building across the stack: client sites and digital products, developer tools, and production AI systems.
 
 **Right now:** Claude Code agents, MCP servers, and evals that show whether an agent actually got better.
 
